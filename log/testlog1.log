@@ -1,0 +1,134 @@
+2023-08-12 20:23:25,732 [main] INFO InetBanking - URL is Opened
+2023-08-12 20:23:25,874 [main] INFO InetBanking - Entered username
+2023-08-12 20:23:25,958 [main] INFO InetBanking - Entered password
+2023-08-12 20:23:26,264 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@80bfa9d: 0 ms
+2023-08-12 20:23:26,310 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@707b1a44: 45 ms
+2023-08-12 20:23:26,382 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4784efd9: 71 ms
+2023-08-12 20:23:26,394 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5d97caa4: 12 ms
+2023-08-12 20:23:26,401 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2fdf17dc: 6 ms
+2023-08-12 20:23:26,410 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@503df2d0: 8 ms
+2023-08-12 20:23:26,416 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@655a01d8: 6 ms
+2023-08-12 20:24:52,415 [main] INFO InetBanking - URL is Opened
+2023-08-12 20:24:52,740 [main] INFO InetBanking - Entered username
+2023-08-12 20:24:52,834 [main] INFO InetBanking - Entered password
+2023-08-12 20:24:55,292 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2c8c16c0: 0 ms
+2023-08-12 20:24:55,317 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@4527f70a: 25 ms
+2023-08-12 20:24:55,370 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@376c7d7d: 53 ms
+2023-08-12 20:24:55,380 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4c86da0c: 9 ms
+2023-08-12 20:24:55,387 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@69d45cca: 7 ms
+2023-08-12 20:24:55,394 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@12fe1f28: 7 ms
+2023-08-12 20:24:55,401 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1507c3c3: 6 ms
+2023-08-12 20:26:54,331 [main] INFO InetBanking - URL is Opened
+2023-08-12 20:26:54,574 [main] INFO InetBanking - Entered username
+2023-08-12 20:26:54,667 [main] INFO InetBanking - Entered password
+2023-08-12 20:26:57,920 [main] INFO InetBanking - Login test passed
+2023-08-12 20:26:58,160 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@37045b48: 0 ms
+2023-08-12 20:26:58,195 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@61bfc9bf: 35 ms
+2023-08-12 20:26:58,252 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@187e5235: 57 ms
+2023-08-12 20:26:58,252 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@d1d8e1a: 0 ms
+2023-08-12 20:26:58,258 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@17461db: 5 ms
+2023-08-12 20:26:58,262 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5d97caa4: 4 ms
+2023-08-12 20:26:58,267 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5c83ae01: 4 ms
+2023-08-12 23:22:55,469 [main] INFO InetBanking - URL is Opened
+2023-08-12 23:22:55,699 [main] INFO InetBanking - Entered username
+2023-08-12 23:22:55,786 [main] INFO InetBanking - Entered password
+2023-08-12 23:22:58,989 [main] INFO InetBanking - Login test passed
+2023-08-12 23:22:59,483 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4aa21f9d: 0 ms
+2023-08-12 23:22:59,531 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@329bad59: 48 ms
+2023-08-12 23:22:59,610 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5434e40c: 77 ms
+2023-08-12 23:22:59,611 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3b48e183: 1 ms
+2023-08-12 23:22:59,617 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4e682398: 6 ms
+2023-08-12 23:22:59,624 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@474821de: 6 ms
+2023-08-12 23:22:59,629 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@69d45cca: 4 ms
+2023-08-13 00:01:26,626 [main] INFO InetBanking - URL is Opened
+2023-08-13 00:01:26,804 [main] INFO InetBanking - Entered username
+2023-08-13 00:01:26,900 [main] INFO InetBanking - Entered password
+2023-08-13 00:01:29,964 [main] INFO InetBanking - Login test passed
+2023-08-13 00:02:19,228 [main] INFO InetBanking - URL is Opened
+2023-08-13 00:02:19,349 [main] INFO InetBanking - Entered username
+2023-08-13 00:02:19,389 [main] INFO InetBanking - Entered password
+2023-08-13 00:02:24,247 [main] INFO InetBanking - Login test passed
+2023-08-13 00:03:23,040 [main] INFO InetBanking - URL is Opened
+2023-08-13 00:03:23,291 [main] INFO InetBanking - Entered username
+2023-08-13 00:03:23,382 [main] INFO InetBanking - Entered password
+2023-08-13 00:03:27,628 [main] INFO InetBanking - Login test passed
+2023-08-13 00:03:52,671 [main] INFO InetBanking - URL is Opened
+2023-08-13 00:03:52,858 [main] INFO InetBanking - Entered username
+2023-08-13 00:03:52,950 [main] INFO InetBanking - Entered password
+2023-08-13 00:04:13,235 [main] INFO InetBanking - URL is Opened
+2023-08-13 00:04:13,477 [main] INFO InetBanking - Entered username
+2023-08-13 00:04:13,581 [main] INFO InetBanking - Entered password
+2023-08-13 00:04:16,762 [main] INFO InetBanking - Login test passed
+2023-08-13 15:41:05,209 [main] INFO InetBanking - URL is Opened
+2023-08-13 15:41:05,769 [main] INFO InetBanking - Entered username
+2023-08-13 15:41:05,845 [main] INFO InetBanking - Entered password
+2023-08-13 15:41:08,853 [main] INFO InetBanking - Login test passed
+2023-08-13 15:41:09,507 [AsyncHttpClient-1-4] WARN org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-08-13 16:58:28,833 [main] INFO InetBanking - URL is Opened
+2023-08-13 16:58:28,972 [main] INFO InetBanking - Entered username
+2023-08-13 16:58:29,060 [main] INFO InetBanking - Entered password
+2023-08-13 16:58:31,978 [main] INFO InetBanking - Login test passed
+2023-08-13 19:26:04,070 [main] INFO InetBanking - URL is Opened
+2023-08-13 19:26:04,290 [main] INFO InetBanking - Entered username
+2023-08-13 19:26:04,444 [main] INFO InetBanking - Entered password
+2023-08-13 19:26:08,184 [AsyncHttpClient-1-4] WARN org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-08-14 14:43:35,133 [main] INFO InetBanking - URL is Opened
+2023-08-14 14:43:36,009 [main] INFO InetBanking - Entered username
+2023-08-14 14:43:36,313 [main] INFO InetBanking - Entered password
+2023-08-14 14:43:40,490 [AsyncHttpClient-1-4] WARN org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-08-14 14:46:24,276 [main] INFO InetBanking - URL is Opened
+2023-08-14 14:46:24,559 [main] INFO InetBanking - Entered username
+2023-08-14 14:46:24,641 [main] INFO InetBanking - Entered password
+2023-08-14 14:47:12,532 [main] INFO InetBanking - URL is Opened
+2023-08-14 14:47:12,759 [main] INFO InetBanking - Entered username
+2023-08-14 14:47:12,864 [main] INFO InetBanking - Entered password
+2023-08-14 14:47:16,552 [main] INFO InetBanking - Login test passed
+2023-08-14 16:08:04,498 [main] INFO InetBanking - URL is Opened
+2023-08-14 16:08:04,743 [main] INFO InetBanking - Entered username
+2023-08-14 16:08:04,830 [main] INFO InetBanking - Entered password
+2023-08-14 16:08:08,004 [main] INFO InetBanking - Login test passed
