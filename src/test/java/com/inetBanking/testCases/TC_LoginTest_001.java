@@ -10,7 +10,6 @@ public class TC_LoginTest_001 extends BaseClass{
 
 	@Test
 	public void LoginTest() throws Exception{
-		
 		driver.get(baseURL);
 		logger.info("URL is Opened");
 		LoginPage lp = new LoginPage(driver);
